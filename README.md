@@ -1,4 +1,4 @@
-# Automated-NGINX-Deployment
+# AUTOMATED DEPLOYMENT ON NGINX USING JENKINS AND GITHUB WEBHOOKS
 
 <img width="1221" height="859" alt="image" src="https://github.com/user-attachments/assets/4d58b0b2-d5b8-4d36-829e-c35d0d625c75" />
 
